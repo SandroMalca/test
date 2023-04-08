@@ -1,0 +1,9 @@
+.container{
+ display: flex;
+ justify-content: space-around;
+ width: 100vw;
+ height: 80%;
+}
+h1{
+    padding-left:10%;
+}

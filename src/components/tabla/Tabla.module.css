@@ -1,0 +1,22 @@
+.cont{   
+    width: 70%;
+    height: 80%;
+    display: flex;    
+    align-items: center;
+    margin-left: 50px;
+}
+
+table th{
+    width: 200px;
+    height: 30px;
+    background-color: #6785c1;
+    text-align: center;
+    color: white;
+}
+
+tr{
+    background-color: #a7b9dc;
+    text-align: center;
+    color: rgb(77, 78, 79);
+    margin-left: 10px;
+}
